@@ -1,6 +1,6 @@
 # IntelliJ-mybatis-plugin
-MyBatis plugin to auto write some code for us.
+MyBatis plugin to automate things for us.
 
-## For release: [IntelliJ Mybatis Plugin Releases][1]
+## For releases: [IntelliJ Mybatis Plugin Releases][1]
 
 [1]: https://github.com/rankun203/IntelliJ-mybatis-plugin/releases
